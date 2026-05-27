@@ -5,6 +5,6 @@ This was made for a fictional field technician business who had a customer with 
 
 Technologies used were SSMS, SSRS, and Visio.
 
-To be able to view the WorkOrderReport, you will need to download raw file. The Logical and Physical Data Models will be easily viewed in Visio. 
+To be able to view the WorkOrderReport, you will need to click on the download raw file icon. The Logical and Physical Data Models will be easily viewed in Visio. 
 
 You will be able to run this project on your SSMS (SQL Server Management Studio). 
