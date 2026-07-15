@@ -1,5 +1,5 @@
-# SSMS-Project-
-Creation of a small database on SSMS (SQL Server Management Studio) and a generated file done on SSRS (SQL Server Reporting Services).
+# Capstone-SSMS-Project-
+Creation of a relational database project in SQL running on SSMS (SQL Server Management Studio) and a generated file done on SSRS (SQL Server Reporting Services).
 
 This was made for a fictional field technician business who had a customer with a couple locations. I was able to generate a file from the database I created on SSMS. 
 
