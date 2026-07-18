@@ -2,7 +2,7 @@
 Creation of a relational database project in SQL running on SSMS (SQL Server Management Studio) and a generated file done on SSRS (SQL Server Reporting Services).
 
 # Purpose of Design and Build of Relational Database:
-This was made for a fictional client who services retail locations for a variety of retail chain customers across the country. This fictional client needed to to be able to track Work Orders for their field technicians who had multiple service locations to attend. The Work Order Report needed to include fields for billing purposes, client and field technicians. This project showcases data integrity, mapping relationships and information routing. I was able to generate a file from the relational database that I created on SSMS. 
+This was made for a fictional client who services retail locations for a variety of retail chain customers across the country. This fictional client needed to be able to track Work Orders for their field technicians who had multiple service locations to attend. The Work Order Report needed to include fields for billing purposes, the client and for the field technicians. This project showcases data integrity, mapping relationships and information routing. I was able to generate a file from the relational database that I created on SSMS. 
 
 Technologies used were SSMS, SSRS, and Visio.
 
