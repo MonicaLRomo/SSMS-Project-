@@ -1,7 +1,8 @@
 # Capstone-SSMS-Project-
 Creation of a relational database project in SQL running on SSMS (SQL Server Management Studio) and a generated file done on SSRS (SQL Server Reporting Services).
 
-This was made for a fictional field technician business who had a customer with a couple locations. I was able to generate a file from the database I created on SSMS. 
+
+This was made for a fictional field technician business who had a customer with a few locations. Showcasing data integrity, mapping relationships and information routing.  I was able to generate a file from the database I created on SSMS. 
 
 Technologies used were SSMS, SSRS, and Visio.
 
